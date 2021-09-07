@@ -8,7 +8,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 - Date : year-month-day
 - Rented Bike count : Count of bikes rented at each hour
-- Hour : Hour of he day
+- Hour : Hour of the day
 - Temperature : Temperature in Celsius
 - Humidity : %
 - Windspeed : m/s
