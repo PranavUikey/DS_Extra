@@ -1,1 +1,3 @@
-# DS_extra_assignments
+# DS_Extra
+
+- This repo contains extra material for Data Science.
